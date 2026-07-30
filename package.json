@@ -1,6 +1,6 @@
 {
-  "name": "my-three-app",
-  "version": "0.0.0",
+  "name": "midelight",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
